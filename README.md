@@ -18,8 +18,8 @@
 
 ### I am a CS student at Brunel University London 
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Visualization.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 🌱 I’m currently learning NLP(Natural Language Processing).
+- 👯 I’m looking to collaborate with other Developers :handshake:
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: create eloquente solutions to problems
