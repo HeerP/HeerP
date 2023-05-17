@@ -1,4 +1,4 @@
-<img align="center" height="0px" alt="GIF" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"/>
+<img align="center" height="30px" alt="GIF" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"/>
 <h2> Hello World, I'm Heer Patel  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt></h2>
 
 <p>
