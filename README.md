@@ -1,5 +1,5 @@
 <img align="center" height="300px" width="1000" alt="GIF" src="https://camo.githubusercontent.com/7850cb8b5dc7e89cc52a6146819da5d6d22148e3aaeee7678f6229a53252e6db/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32342f38652f34372f32343865343761383438646135396437336264316235386233346236356137632e676966"/>
-<h2> Hello World, I'm Heer Patel :wave</h2> 
+<h2> Hello World, I'm Heer Patel 👋</h2> 
 
 <p>
   <h4 align="center"><b>"Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
